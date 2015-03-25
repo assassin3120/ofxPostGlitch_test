@@ -1,0 +1,3 @@
+ofxPostGlitch
+ofxStateMachine
+ofxSyphon
